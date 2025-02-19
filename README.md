@@ -24,3 +24,7 @@
 
 - Extract the CartContextProvider and refactor the code
 - Use `<CartProvider>` and provide it `<App>` as a children.
+
+### Exercise - 6
+
+- Make the CartContext as a customHook - `useCart()`
