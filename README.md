@@ -11,3 +11,9 @@
 ### Exercise - 3:
 
 - Consume the context in Cart component and update the code to display the items in cart!
+
+
+### Exercise - 4:
+
+- Passing a function to the component via Provider
+- Here we just pass a logger function
