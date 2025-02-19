@@ -32,3 +32,7 @@
 ### Exercise - 7
 
 - Pass state & setState values instead of static values
+
+### Exercise - 8
+
+- Update the state value in `ProductList`
