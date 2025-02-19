@@ -17,3 +17,10 @@
 
 - Passing a function to the component via Provider
 - Here we just pass a logger function
+
+### Exercise - 5:
+
+#### Code Refactor
+
+- Extract the CartContextProvider and refactor the code
+- Use `<CartProvider>` and provide it `<App>` as a children.
