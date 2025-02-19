@@ -28,3 +28,7 @@
 ### Exercise - 6
 
 - Make the CartContext as a customHook - `useCart()`
+
+### Exercise - 7
+
+- Pass state & setState values instead of static values
