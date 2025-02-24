@@ -36,3 +36,9 @@
 ### Exercise - 8
 
 - Update the state value in `ProductList`
+
+### Exercise - 9
+
+- Update the `Product Structure` Add Cart & Products button & the data should be displayed when clicked on Cart.
+
+
